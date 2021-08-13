@@ -4,7 +4,10 @@
 ```
 My name is Yezeed, and I have begun my Software Engineering course with ALX Africa.
 
-This marks the beginign of my first project.
+This marks the beginning of my first project.
+```
+```
+I am moving quite well and learning.
 ```
 ```
 Thank you very much. 
