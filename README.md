@@ -10,5 +10,5 @@ This marks the beginning of my first project.
 I am moving quite well and learning.
 ```
 ```
-Thank you very much. 
+Thank you! 
 ```
